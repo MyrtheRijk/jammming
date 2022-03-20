@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Codecademy project
+This app is build with React as a training exercise from Codecademy. Users of this app can search for artists or songs in Spotify and add songs to their playlists. This project is made with step-by-step tutorials on Codecademy. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
